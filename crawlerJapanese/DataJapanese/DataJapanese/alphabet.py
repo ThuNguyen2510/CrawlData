@@ -2,7 +2,7 @@
 import scrapy
 
 
-class hiragana(scrapy.Item):
+class alphabet(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     alphabet_id = scrapy.Field()
