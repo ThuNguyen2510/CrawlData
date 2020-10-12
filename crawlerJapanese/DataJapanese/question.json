@@ -1,0 +1,232 @@
+[
+    {
+        "test_id": 3,
+        "content": "<strong>1. \u308f\u305f\u3057</strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong>2. \u307f\u306a\u3055\u3093</strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong>3. \u305b\u3093\u305b\u3044</strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong>4. \u304c\u304f\u305b\u3044</strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong>5. \u30a8\u30f3\u30b8\u30cb\u30a2</strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong><span style=\"font-size:16px;\">6.\u00a0B\u1ec7nh vi\u1ec7n</span></strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong><span style=\"font-size:16px;\">7. H\u00e0n Qu\u1ed1c</span></strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong><span style=\"font-size:16px;\">8. \u0110i\u1ec7n tho\u1ea1i</span></strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong><span style=\"font-size:16px;\">9. \u3000\u1ea4n \u0110\u1ed9</span></strong>"
+    },
+    {
+        "test_id": 3,
+        "content": "<strong><span style=\"font-size:16px;\">10. \u3000Nh\u00e2n vi\u00ean c\u00f4ng ty</span></strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong>1) \u00a0\u30ce\u30fc\u30c8</strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong>2) \u00a0\u304b\u3070\u3093</strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong>3) \u00a0\u304b\u304e\u00a0</strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong>4) \u00a0\u30ab\u30e1\u30e9\u00a0\u00a0\u00a0</strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong><span style=\"font-size:16px;\">5) \u00a0\u3066\u3061\u3087\u3046</span></strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong>6) <span style=\"font-size:16px;\">\u00a0M\u00e1y vi t\u00ednh</span></strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong>7) B<span style=\"font-size:16px;\">\u00fat ch\u00ec kim, b\u00fat ch\u00ec b\u1ea5m</span></strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong><span style=\"font-size:16px;\">8) \u00a0M\u00e1y ghi \u00e2m</span></strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong><span style=\"font-size:16px;\">9) \u3000Tivi</span></strong>"
+    },
+    {
+        "test_id": 4,
+        "content": "<strong><span style=\"font-size:16px;\">10) \u3000Th\u1ebb \u0111i\u1ec7n tho\u1ea1i</span></strong>"
+    },
+    {
+        "test_id": 5,
+        "content": "\u307f",
+        "level": 0
+    },
+    {
+        "test_id": 5,
+        "content": "\u30ca",
+        "level": 0
+    },
+    {
+        "test_id": 5,
+        "content": "\u3061\u3083",
+        "level": 0
+    },
+    {
+        "test_id": 5,
+        "content": "\u3073\u3085",
+        "level": 0
+    },
+    {
+        "test_id": 5,
+        "content": "\u3072\u3085",
+        "level": 0
+    },
+    {
+        "test_id": 5,
+        "content": "\uff08\uff0d\uff0d\uff0d\uff09\u3048\u3044\u304c\u3092\u307f\u306b\u3044\u304d\u307e\u305b\u3093\u304b\uff1f",
+        "level": 1
+    },
+    {
+        "test_id": 5,
+        "content": "\u3042\u305d\u3053\u3067\u30d0\u30b9\u306b\uff08\uff0d\uff0d\uff0d\uff09\u3002",
+        "level": 1
+    },
+    {
+        "test_id": 5,
+        "content": "\u308f\u305f\u3057\u306f\u3044\u3064\u3082\uff08\uff0d\uff0d\uff0d\uff09 \u3092\u304d\u304d\u306a\u304c\u3089\u65e5\u672c\u8a9e\u3092\u3079\u3093\u304d\u3087\u3046\u3057\u307e\u3059\u3002",
+        "level": 1
+    },
+    {
+        "test_id": 5,
+        "content": "\u30df\u30f3\u3055\u3093\u306f\u30ae\u30bf\u30fc\u3092\u3058\u3087\u3046\u305a\u306b\uff08\uff0d\uff0d\uff0d\uff09\u3002",
+        "level": 1
+    },
+    {
+        "test_id": 5,
+        "content": "\u308f\u305f\u3057\u306e\u3059\u304d\u306a\u306e\u307f\u3082\u306e\u306f\uff08\uff0d\uff0d\uff0d\uff09\u3067\u3059\u3002",
+        "level": 1
+    },
+    {
+        "test_id": 5,
+        "content": "\u4f1a\u8b70\u306e\u3000\u6e96\u5099\u304c\u3000\u3067\u304d\u305f\u3089\u3001\u4f1a\u9577\u306b\u3000\uff08\uff0d\uff0d\uff0d\uff09\u3000\u304f\u3060\u3055\u3044\u3002 ",
+        "level": 2
+    },
+    {
+        "test_id": 5,
+        "content": "\u6765\u9031\u3000\u30ec\u30c3\u30b9\u30f3\u3092\u3000\u4f11\u307f\u305f\u3044\u3068\u3000\u5148\u751f\u306b\u3000\uff08\uff0d\uff0d\uff0d\uff09\u3002",
+        "level": 2
+    },
+    {
+        "test_id": 5,
+        "content": "\u304d\u3087\u3046\u3057\u3064\u306e\u304b\u3079\u306b\u304d\u308c\u3044\u306a\u3048\u304c\uff08\uff0d\uff0d\uff0d\uff09\u3042\u308a\u307e\u3059\u3002",
+        "level": 2
+    },
+    {
+        "test_id": 5,
+        "content": "\u660e\u65e5\u3001\u3042\u305d\u3053\u306e\u30d3\u30eb\u3067\u3000\u4f1a\u8b70\u3092\u3000\uff08\uff0d\uff0d\uff0d\uff09\u3002",
+        "level": 2
+    },
+    {
+        "test_id": 5,
+        "content": "\u304d\u306e\u3046\u304b\u3089\u304b\u3089\u3060\u306e\u3050\u3042\u3044\u304c \uff08\uff0d\uff0d\uff0d\uff09\u3002",
+        "level": 2
+    },
+    {
+        "test_id": 5,
+        "content": "野菜",
+        "level": 3
+    },
+    {
+        "test_id": 5,
+        "content": "素直",
+        "level": 3
+    },
+    {
+        "test_id": 5,
+        "content": "習いました",
+        "level": 3
+    },
+    {
+        "test_id": 5,
+        "content": "外出",
+        "level": 3
+    },
+    {
+        "test_id": 5,
+        "content": "食料品",
+        "level": 3
+    },
+    {
+        "test_id": 5,
+        "content": "言うのは簡単だが______にうつすのが大変なんだ。",
+        "level": 4
+    },
+    {
+        "test_id": 5,
+        "content": "このあたりは______がかたいので地震がきでも大丈夫だ。",
+        "level": 4
+    },
+    {
+        "test_id": 5,
+        "content": "以前見た映画だったが、もう一度見たときも______を覚えた。",
+        "level": 4
+    },
+    {
+        "test_id": 5,
+        "content": "今年は少し長い______をとって海外旅行をするつもりだ。",
+        "level": 4
+    },
+    {
+        "test_id": 5,
+        "content": "売り上げから材料費をひくと______はほとんどない。",
+        "level": 4
+    },
+    {
+        "test_id": 5,
+        "content": "修士",
+        "level": 5
+    },
+    {
+        "test_id": 5,
+        "content": "逃れた",
+        "level": 5
+    },
+    {
+        "test_id": 5,
+        "content": "今度の大会は、月を（　　　）開催されることになった。",
+        "level": 5
+    },
+    {
+        "test_id": 5,
+        "content": "利益",
+        "level": 5
+    },
+    {
+        "test_id": 5,
+        "content": "錯誤",
+        "level": 5
+    }
+]

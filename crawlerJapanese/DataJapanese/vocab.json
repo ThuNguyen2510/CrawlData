@@ -1,0 +1,359 @@
+[
+    {
+        "lesson_id": 3,
+        "content": "M\u1ee5c t\u1eeb",
+        "audio": null,
+        "kanji": "H\u00e1n T\u1ef1",
+        "means": "Ngh\u0129a"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u308f\u305f\u3057",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/watashi.mp3",
+        "kanji": null,
+        "means": "t\u00f4i"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u308f\u305f\u3057\u305f\u3061",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/watashitachi.mp3",
+        "kanji": null,
+        "means": "ch\u00fang t\u00f4i, ch\u00fang ta"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3042\u306a\u305f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/anata.mp3",
+        "kanji": null,
+        "means": "anh/ ch\u1ecb/ \u00f4ng/ b\u00e0,"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3042\u306e\u3072\u3068",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/anohito.mp3",
+        "kanji": "\u3042\u306e\u4eba",
+        "means": "ng\u01b0\u1eddi kia, ng\u01b0\u1eddi \u0111\u00f3"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3042\u306e\u304b\u305f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/anokata.mp3",
+        "kanji": "\u3042\u306e\u65b9",
+        "means": "v\u1ecb kia"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u307f\u306a\u3055\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/minasan.mp3",
+        "kanji": "\u7686\u3055\u3093",
+        "means": "c\u00e1c anh ch\u1ecb, c\u00e1c \u00f4ng b\u00e0, c\u00e1c b\u1ea1n, qu\u00fd v\u1ecb"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\uff5e\u3055\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/san.mp3",
+        "kanji": null,
+        "means": "anh, ch\u1ecb, \u00f4ng, b\u00e0"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\uff5e\u3061\u3083\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/chan.mp3",
+        "kanji": null,
+        "means": "b\u00e9~"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\uff5e\u304f\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/kun.mp3",
+        "kanji": "\uff5e\u541b",
+        "means": "c\u1eadu b\u00e9~"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\uff5e\u3058\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/jin.mp3",
+        "kanji": "\uff5e\u4eba",
+        "means": "ng\u01b0\u1eddi (n\u01b0\u1edbc)~"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u305b\u3093\u305b\u3044",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/sensei.mp3",
+        "kanji": "\u5148\u751f",
+        "means": "th\u1ea7y/ c\u00f4"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u304d\u3087\u3046\u3057",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/kyoushi.mp3",
+        "kanji": "\u6559\u5e2b",
+        "means": "gi\u00e1o vi\u00ean"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u304c\u304f\u305b\u3044",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/gakusei.mp3",
+        "kanji": "\u5b66\u751f",
+        "means": "h\u1ecdc sinh, sinh vi\u00ean"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u304b\u3044\u3057\u3083\u3044\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/kaisyain.mp3",
+        "kanji": "\u4f1a\u793e\u54e1",
+        "means": "nh\u00e2n vi\u00ean c\u00f4ng ty"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3057\u3083\u3044\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/syain.mp3",
+        "kanji": "\u793e\u54e1",
+        "means": "nh\u00e2n vi\u00ean c\u00f4ng ty ~"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u304e\u3093\u3053\u3046\u3044\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/ginkouin.mp3",
+        "kanji": "\u9280\u884c\u54e1",
+        "means": "nh\u00e2n vi\u00ean ng\u00e2n h\u00e0ng"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3044\u3057\u3083",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/isya.mp3",
+        "kanji": "\u533b\u8005",
+        "means": "b\u00e1c s\u0129"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3051\u3093\u304d\u3085\u3046\u3057\u3083",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/kenkyuusya.mp3",
+        "kanji": "\u7814\u7a76\u8005",
+        "means": "nh\u00e0 nghi\u00ean c\u1ee9u"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30a8\u30f3\u30b8\u30cb\u30a2",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/k_enjinia.mp3",
+        "kanji": null,
+        "means": "k\u1ef9 s\u01b0"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3060\u3044\u304c\u304f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/daigaku.mp3",
+        "kanji": "\u5927\u5b66",
+        "means": "\u0111\u1ea1i h\u1ecdc, tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3073\u3087\u3046\u3044\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/byouin.mp3",
+        "kanji": "\u75c5\u9662",
+        "means": "b\u1ec7nh vi\u1ec7n"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3067\u3093\u304d",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/denki.mp3",
+        "kanji": "\u96fb\u6c17",
+        "means": "\u0111i\u1ec7n, \u0111\u00e8n \u0111i\u1ec7n"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3060\u308c",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/dare.mp3",
+        "kanji": null,
+        "means": "ai"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3069\u306a\u305f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/donata.mp3",
+        "kanji": null,
+        "means": "v\u1ecb n\u00e0o, l\u00e0 c\u00e1ch n\u00f3i l\u1ecbch s\u1ef1 c\u1ee7a \u3060\u308c"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\uff5e\u3055\u3044",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/sai.mp3",
+        "kanji": "\uff5e\u6b73",
+        "means": "\uff5e tu\u1ed5i"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u306a\u3093\u3055\u3044",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/nansai.mp3",
+        "kanji": "\u4f55\u6b73",
+        "means": "m\u1ea5y tu\u1ed5i, bao nhi\u00eau tu\u1ed5i"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u304a\u3044\u304f\u3064",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/oikutsu.mp3",
+        "kanji": null,
+        "means": "m\u1ea5y tu\u1ed5i, bao nhi\u00eau tu\u1ed5i \u3001l\u00e0 c\u00e1ch n\u00f3i l\u1ecbch s\u1ef1 c\u1ee7a \u306a\u3093\u3055\u3044"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u306f\u3044",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/hai.mp3",
+        "kanji": null,
+        "means": "v\u00e2ng, d\u1ea1"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3044\u3044\u3048",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/iie.mp3",
+        "kanji": null,
+        "means": "kh\u00f4ng"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3057\u3064\u308c\u3044\u3067\u3059\u304c\u304a\u306a\u307e\u3048\u306f\uff1f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/shitureidesugaonamaeha.mp3",
+        "kanji": "\u5931\u793c\u3067\u3059\u304c\u304a\u540d\u524d\u306f\uff1f",
+        "means": "xin l\u1ed7i, t\u00ean anh/ch\u1ecb l\u00e0 g\u00ec?"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u306f\u3058\u3081\u307e\u3057\u3066\u3002",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/hajimemashite.mp3",
+        "kanji": "\u521d\u3081\u307e\u3057\u3066\u3002",
+        "means": "R\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c g\u1eb7p anh/ch\u1ecb"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3069\u3046\u305e\u3088\u308d\u3057\u304f\u304a\u306d\u304c\u3044\u3057\u307e\u3059\u3002",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/douzoyoroshikuonegaishimasu.mp3",
+        "kanji": "\u3069\u3046\u305e\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+        "means": "R\u1ea5t mong \u0111\u01b0\u1ee3c s\u1ef1 gi\u00fap \u0111\u1ee1 c\u1ee7a anh/ch\u1ecb, r\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh/ch\u1ecb (D\u00f9ng l\u00e0m c\u00e2u k\u1ebft th\u00fac sau khi gi\u1edbi thi\u1ec7u v\u1ec1 m\u00ecnh.)"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3053\u3061\u3089\u306f\uff5e\u3055\u3093\u3067\u3059\u3002",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/kochirahasandesu.mp3",
+        "kanji": null,
+        "means": "\u0110\u00e2y l\u00e0 anh/ch\u1ecb/\u00f4ng/b\u00e0 ~."
+    },
+    {
+        "lesson_id": 3,
+        "content": "\uff5e\u304b\u3089\u304d\u307e\u3057\u305f\u3002",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/karakimashita.mp3",
+        "kanji": "\uff5e\u304b\u3089\u6765\u307e\u3057\u305f\u3002",
+        "means": "(t\u00f4i) \u0111\u1ebfn t\u1eeb ~."
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30a2\u30e1\u30ea\u30ab",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_35.mp3",
+        "kanji": null,
+        "means": "M\u1ef9"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30a4\u30ae\u30ea\u30b9",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_36.mp3",
+        "kanji": null,
+        "means": "Anh"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30a4\u30f3\u30c9",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_37.mp3",
+        "kanji": null,
+        "means": "\u1ea4n \u0110\u1ed9"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_38.mp3",
+        "kanji": null,
+        "means": "Indonesia"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u304b\u3093\u3053\u304f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_39.mp3",
+        "kanji": "\u97d3\u56fd",
+        "means": "H\u00e0n Qu\u1ed1c"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30bf\u30a4",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_40.mp3",
+        "kanji": null,
+        "means": "Th\u00e1i Lan"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3061\u3085\u3046\u3054\u304f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_41.mp3",
+        "kanji": "\u4e2d\u56fd",
+        "means": "Trung Qu\u1ed1c"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30c9\u30a4\u30c4",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_42.mp3",
+        "kanji": null,
+        "means": "\u0110\u1ee9c"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u306b\u307b\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_43.mp3",
+        "kanji": "\u65e5\u672c",
+        "means": "Nh\u1eadt B\u1ea3n"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30d5\u30e9\u30f3\u30b9",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_44.mp3",
+        "kanji": null,
+        "means": "Ph\u00e1p"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30d6\u30e9\u30b8\u30eb",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_45.mp3",
+        "kanji": null,
+        "means": "Braxin"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3055\u304f\u3089\u3060\u3044\u304c\u304f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_46.mp3",
+        "kanji": "\u3055\u304f\u3089\u5927\u5b66",
+        "means": "\u0110\u1ea1i h\u1ecdc Sakura"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3075\u3058\u3060\u3044\u304c\u304f",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_47.mp3",
+        "kanji": "\u5bcc\u58eb\u5927\u5b66",
+        "means": "\u0110\u1ea1i h\u1ecdc Ph\u00fa S\u0129"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30d1\u30ef\u30fc\u3067\u3093\u304d",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_48.mp3",
+        "kanji": "\u30d1\u30ef\u30fc\u96fb\u6c17",
+        "means": "C\u00f4ng ty \u0111i\u1ec7n Power"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u30d6\u30e9\u30b8\u30eb\u30a8\u30a2\u30fc",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_49.mp3",
+        "kanji": null,
+        "means": "C\u00f4ng ty Brazin Air"
+    },
+    {
+        "lesson_id": 3,
+        "content": "\u3053\u3046\u3079\u3073\u3087\u3046\u3044\u3093",
+        "audio": "https://lophoctiengnhat.com/public/lesson/kotoba/minna/b01/vn_50.mp3",
+        "kanji": "\u795e\u6238\u75c5\u9662",
+        "means": "B\u1ec7nh vi\u1ec7n Kobe"
+    }
+]

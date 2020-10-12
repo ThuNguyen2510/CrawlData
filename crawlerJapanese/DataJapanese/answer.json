@@ -1,0 +1,927 @@
+[
+    {
+        "question_id": 209,
+        "content": "<p style=\"margin-left:40px;\">a. \u00a0T\u00f4i</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 209,
+        "content": "<p style=\"margin-left:40px;\">b. Ch\u00fang t\u00f4i</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 209,
+        "content": "<p style=\"margin-left:40px;\">c. Ch\u00fang ta</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 209,
+        "content": "<p style=\"margin-left:40px;\">d. B\u1ea1n</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 210,
+        "content": "<p style=\"margin-left:40px;\">a. Qu\u00fd v\u1ecb/ C\u00e1c anh ch\u1ecb/ C\u00e1c \u00f4ng b\u00e0</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 210,
+        "content": "<p style=\"margin-left:40px;\">b. Anh</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 210,
+        "content": "<p style=\"margin-left:40px;\">c. C\u00e1c nh\u00e2n vi\u00ean</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 210,
+        "content": "<p style=\"margin-left:40px;\">d. \u00d4ng/ B\u00e0</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 211,
+        "content": "<p style=\"margin-left:40px;\">a. B\u00e1c s\u0129</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 211,
+        "content": "<p style=\"margin-left:40px;\">b. Th\u1ea7y/ C\u00f4</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 211,
+        "content": "<p style=\"margin-left:40px;\">c. C\u00f4ng nh\u00e2n</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 211,
+        "content": "<p style=\"margin-left:40px;\">d. Sinh vi\u00ean</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 212,
+        "content": "<p style=\"margin-left:40px;\">a. Nghi\u00ean c\u1ee9u sinh</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 212,
+        "content": "<p style=\"margin-left:40px;\">b. Nha s\u0129</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 212,
+        "content": "<p style=\"margin-left:40px;\">c. H\u1ecdc sinh</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 212,
+        "content": "<p style=\"margin-left:40px;\">d. Gi\u00e1o vi\u00ean</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 213,
+        "content": "<p style=\"margin-left:40px;\">a. Gi\u00e1o vi\u00ean</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 213,
+        "content": "<p style=\"margin-left:40px;\">b. K\u1ef9 s\u01b0</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 213,
+        "content": "<p style=\"margin-left:40px;\">c. Nh\u00e0 nghi\u00ean c\u1ee9u</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 213,
+        "content": "<p style=\"margin-left:40px;\">d. Ca s\u0129</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 214,
+        "content": "<p style=\"margin-left:40px;\">a. \u3073\u3088\u3044\u3093</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 214,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u3073\u3087\u3044\u3093</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 214,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u3073\u3087\u3046\u3044\u3093</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 214,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u3073\u3088\u3046\u3044\u3093</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 215,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u304b\u3093\u3054\u304f</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 215,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u304b\u3054\u304f</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 215,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u304b\u3093\u3053\u304f</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 215,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u304b\u3053\u304f</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 216,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u3066\u3093\u308f</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 216,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u3067\u3093\u308f</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 216,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u3067\u30a6\u30ef</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 216,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u30c7\u30fc\u30ef</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 217,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u30a8\u30f3\u30c9</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 217,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u30a4\u30f3\u30c9</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 217,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u30a4\u30f3\u30fc\u30c9</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 217,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u30a4\u30fc\u30f3\u30c9</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 218,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u3057\u3083\u3046\u3093</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 218,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u3055\u3044\u3093</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 218,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u304b\u3044\u3044\u3093</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 218,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u3057\u3083\u3044\u3093</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 219,
+        "content": "<p style=\"margin-left:40px;\">a. \u00a0V\u1edf</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 219,
+        "content": "<p style=\"margin-left:40px;\">b. B\u00e1o</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 219,
+        "content": "<p style=\"margin-left:40px;\">c.\u00a0 S\u00e1ch</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 219,
+        "content": "<p style=\"margin-left:40px;\">d. s\u1ed5 tay</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 220,
+        "content": "<p style=\"margin-left:40px;\">a. \u0110\u1ed3ng h\u1ed3</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 220,
+        "content": "<p style=\"margin-left:40px;\">b. V\u00ed da</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 220,
+        "content": "<p style=\"margin-left:40px;\">c. Vali</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 220,
+        "content": "<p style=\"margin-left:40px;\">d. C\u1eb7p s\u00e1ch</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 221,
+        "content": "<p style=\"margin-left:40px;\">a.\u00a0 c\u00e2y d\u00f9</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 221,
+        "content": "<p style=\"margin-left:40px;\">b. Ch\u00eca kho\u00e1</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 221,
+        "content": "<p style=\"margin-left:40px;\">c. \u1ed5 kho\u00e1</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 221,
+        "content": "<p style=\"margin-left:40px;\">d. C\u1eeda</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 222,
+        "content": "<p style=\"margin-left:40px;\">a. M\u00e1y in</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 222,
+        "content": "<p style=\"margin-left:40px;\">b. M\u00e1y \u1ea3nh</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 222,
+        "content": "<p style=\"margin-left:40px;\">c. m\u00e1y in</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 222,
+        "content": "<p style=\"margin-left:40px;\">d. m\u00e1y \u0111\u00e1nh ch\u1eef</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 223,
+        "content": "<p style=\"margin-left:40px;\">a. v\u1edf</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 223,
+        "content": "<p style=\"margin-left:40px;\">b. B\u1ea3ng k\u1ebf ho\u1ea1ch</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 223,
+        "content": "<p style=\"margin-left:40px;\">c. S\u1ed5 tay</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 223,
+        "content": "<p style=\"margin-left:40px;\">d. nh\u1eadt k\u00fd</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 224,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u30b3\u30f3\u30d3\u30e5\u30fc\u30bf\u30fc</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 224,
+        "content": "<p style=\"margin-left:40px;\">b. \u3000\u30b3\u30f3\u30d3\u30e5\u30fc\u30bf</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 224,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 224,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 225,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u30b7\u30e3\u30fc\u30d6\u30da\u30f3\u30b7\u30eb</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 225,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u30b7\u30e3\u30fc\u30d7\u30da\u30f3\u30b7\u30eb</p>",
+        "is_true": 2
+    },
+    {
+        "question_id": 225,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u30dc\u30fc\u30eb\u30da\u30f3</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 225,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u30dd\u30fc\u30eb\u30da\u30f3</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 226,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u30c6\u30fc\u30d7\u30ec\u30b3\u30c0\u30fc</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 226,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u30c6\u30fc\u30d7\u30ec\u30b3\u30fc\u30c0\u30fc</p>",
+        "is_true": 2
+    },
+    {
+        "question_id": 226,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u30ec\u30b3\u30c0\u30fc</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 226,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u30ec\u30b3\u30fc\u30c0\u30fc</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 227,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u30c7\u30ec\u30d3</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 227,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u30c7\u30ec\u30d4</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 227,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u30c6\u30ec\u30d4</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 227,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u30c6\u30ec\u30d3</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 228,
+        "content": "<p style=\"margin-left:40px;\">a.\u3000\u30c6\u30ec\u30db\u30f3\u30ab\u30fc\u30c9</p>",
+        "is_true": 1
+    },
+    {
+        "question_id": 228,
+        "content": "<p style=\"margin-left:40px;\">b.\u3000\u30c1\u30b1\u30c3\u30c8</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 228,
+        "content": "<p style=\"margin-left:40px;\">c.\u3000\u30ab\u30a6\u30f3\u30bf\u30fc</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 228,
+        "content": "<p style=\"margin-left:40px;\">d.\u3000\u306f\u304c\u304d</p>",
+        "is_true": 0
+    },
+    {
+        "question_id": 229,
+        "content": "mi",
+        "is_true": 1
+    },
+    {
+        "question_id": 230,
+        "content": "na",
+        "is_true": 1
+    },
+    {
+        "question_id": 231,
+        "content": "cha",
+        "is_true": 1
+    },
+    {
+        "question_id": 232,
+        "content": "byu",
+        "is_true": 1
+    },
+    {
+        "question_id": 233,
+        "content": "hyu",
+        "is_true": 1
+    },
+    {
+        "question_id": 234,
+        "content": "\u3042\u3057\u305f",
+        "is_true": 1
+    },
+    {
+        "question_id": 234,
+        "content": "\u304d\u306e\u3046",
+        "is_true": 0
+    },
+    {
+        "question_id": 234,
+        "content": "\u304a\u3068\u3068\u3044",
+        "is_true": 0
+    },
+    {
+        "question_id": 234,
+        "content": "\u304d\u3087\u306d\u3093",
+        "is_true": 0
+    },
+    {
+        "question_id": 235,
+        "content": "\u3064\u304d\u307e\u3057\u305f",
+        "is_true": 0
+    },
+    {
+        "question_id": 235,
+        "content": "\u306e\u307c\u308a\u307e\u3057\u305f",
+        "is_true": 0
+    },
+    {
+        "question_id": 235,
+        "content": "\u306e\u308a\u307e\u3057\u305f",
+        "is_true": 1
+    },
+    {
+        "question_id": 235,
+        "content": "\u306f\u3044\u308a\u307e\u3057\u305f",
+        "is_true": 0
+    },
+    {
+        "question_id": 236,
+        "content": "\u30da\u30f3\u30c1",
+        "is_true": 0
+    },
+    {
+        "question_id": 236,
+        "content": "\u30e9\u30b8\u30aa",
+        "is_true": 1
+    },
+    {
+        "question_id": 236,
+        "content": "\u30c6\u30fc\u30d6\u30eb",
+        "is_true": 0
+    },
+    {
+        "question_id": 236,
+        "content": "\u30db\u30c3\u30c1\u30ad\u30b9",
+        "is_true": 0
+    },
+    {
+        "question_id": 237,
+        "content": "\u3046\u305f\u3044\u307e\u3059",
+        "is_true": 0
+    },
+    {
+        "question_id": 237,
+        "content": "\u3072\u304d\u307e\u3059",
+        "is_true": 0
+    },
+    {
+        "question_id": 237,
+        "content": "\u3042\u305d\u3073\u307e\u3059",
+        "is_true": 1
+    },
+    {
+        "question_id": 237,
+        "content": "\u304d\u304d\u307e\u3059",
+        "is_true": 0
+    },
+    {
+        "question_id": 238,
+        "content": "\u304a\u304b\u3057",
+        "is_true": 0
+    },
+    {
+        "question_id": 238,
+        "content": "\u304a\u3061\u3083",
+        "is_true": 1
+    },
+    {
+        "question_id": 238,
+        "content": "\u308a\u3093\u3054",
+        "is_true": 0
+    },
+    {
+        "question_id": 238,
+        "content": "\u3044\u306c",
+        "is_true": 0
+    },
+    {
+        "question_id": 239,
+        "content": "\u3088\u3084\u304f\u3000\u3057\u3066",
+        "is_true": 0
+    },
+    {
+        "question_id": 239,
+        "content": "\u307b\u3093\u3084\u304f\u3000\u3057\u3066",
+        "is_true": 0
+    },
+    {
+        "question_id": 239,
+        "content": "\u308c\u3093\u3089\u304f\u3000\u3057\u3066",
+        "is_true": 1
+    },
+    {
+        "question_id": 239,
+        "content": "\u3084\u304f\u305d\u304f\u3000\u3057\u3066",
+        "is_true": 0
+    },
+    {
+        "question_id": 240,
+        "content": "\u805e\u3044\u305f",
+        "is_true": 0
+    },
+    {
+        "question_id": 240,
+        "content": "\u601d\u3063\u305f",
+        "is_true": 0
+    },
+    {
+        "question_id": 240,
+        "content": "\u4f1d\u3048\u305f",
+        "is_true": 1
+    },
+    {
+        "question_id": 240,
+        "content": "\u5c0b\u306d\u305f",
+        "is_true": 0
+    },
+    {
+        "question_id": 241,
+        "content": "\u306e\u305b\u3066",
+        "is_true": 0
+    },
+    {
+        "question_id": 241,
+        "content": " \u304b\u3051\u3066",
+        "is_true": 1
+    },
+    {
+        "question_id": 241,
+        "content": " \u304a\u3044\u3066\u3000\u3000",
+        "is_true": 0
+    },
+    {
+        "question_id": 241,
+        "content": "\u3064\u3051\u3066",
+        "is_true": 0
+    },
+    {
+        "question_id": 242,
+        "content": "\u5f85\u3064",
+        "is_true": 0
+    },
+    {
+        "question_id": 242,
+        "content": "\u884c\u3046",
+        "is_true": 1
+    },
+    {
+        "question_id": 242,
+        "content": "\u884c\u304f",
+        "is_true": 0
+    },
+    {
+        "question_id": 242,
+        "content": "\u6765\u308b",
+        "is_true": 0
+    },
+    {
+        "question_id": 243,
+        "content": "\u3044\u3084\u3067\u3059",
+        "is_true": 0
+    },
+    {
+        "question_id": 243,
+        "content": " \u3044\u305f\u3044\u3067\u3059",
+        "is_true": 1
+    },
+    {
+        "question_id": 243,
+        "content": "\u308f\u308b\u3044\u3067\u3059",
+        "is_true": 0
+    },
+    {
+        "question_id": 243,
+        "content": "\u304d\u3089\u3044\u3067\u3059",
+        "is_true": 0
+    },
+    {
+        "question_id": 244,
+        "content": "やさい",
+        "is_true": 1
+    },
+    {
+        "question_id": 244,
+        "content": "ざさい",
+        "is_true": 0
+    },
+    {
+        "question_id": 244,
+        "content": "さかな",
+        "is_true": 0
+    },
+    {
+        "question_id": 244,
+        "content": "ばっさい",
+        "is_true": 0
+    },
+    {
+        "question_id": 245,
+        "content": "なごや",
+        "is_true": 0
+    },
+    {
+        "question_id": 245,
+        "content": "すなお",
+        "is_true": 1
+    },
+    {
+        "question_id": 245,
+        "content": "さすが",
+        "is_true": 0
+    },
+    {
+        "question_id": 245,
+        "content": "ちょくな",
+        "is_true": 0
+    },
+    {
+        "question_id": 246,
+        "content": "ふくしゅしました",
+        "is_true": 0
+    },
+    {
+        "question_id": 246,
+        "content": "ならいました",
+        "is_true": 1
+    },
+    {
+        "question_id": 246,
+        "content": "うたいました",
+        "is_true": 0
+    },
+    {
+        "question_id": 246,
+        "content": "あいました",
+        "is_true": 0
+    },
+    {
+        "question_id": 247,
+        "content": "そとしゅつ",
+        "is_true": 0
+    },
+    {
+        "question_id": 247,
+        "content": "がいでる",
+        "is_true": 0
+    },
+    {
+        "question_id": 247,
+        "content": "がいしゅつ",
+        "is_true": 1
+    },
+    {
+        "question_id": 247,
+        "content": "そとでる",
+        "is_true": 0
+    },
+    {
+        "question_id": 248,
+        "content": "しょくりょうしな",
+        "is_true": 0
+    },
+    {
+        "question_id": 248,
+        "content": "しょくりょうびん",
+        "is_true": 0
+    },
+    {
+        "question_id": 248,
+        "content": "しょくりょうひん",
+        "is_true": 1
+    },
+    {
+        "question_id": 248,
+        "content": "しょうくりょひん",
+        "is_true": 0
+    },
+    {
+        "question_id": 249,
+        "content": "実行",
+        "is_true": 1
+    },
+    {
+        "question_id": 249,
+        "content": "実施",
+        "is_true": 0
+    },
+    {
+        "question_id": 249,
+        "content": "実現",
+        "is_true": 0
+    },
+    {
+        "question_id": 249,
+        "content": "実績",
+        "is_true": 0
+    },
+    {
+        "question_id": 250,
+        "content": "大陸",
+        "is_true": 0
+    },
+    {
+        "question_id": 250,
+        "content": "敷地",
+        "is_true": 0
+    },
+    {
+        "question_id": 250,
+        "content": "地盤",
+        "is_true": 1
+    },
+    {
+        "question_id": 250,
+        "content": "表面",
+        "is_true": 0
+    },
+    {
+        "question_id": 251,
+        "content": "感覚",
+        "is_true": 0
+    },
+    {
+        "question_id": 251,
+        "content": "感想",
+        "is_true": 0
+    },
+    {
+        "question_id": 251,
+        "content": "感動",
+        "is_true": 1
+    },
+    {
+        "question_id": 251,
+        "content": "感激",
+        "is_true": 0
+    },
+    {
+        "question_id": 252,
+        "content": "資本",
+        "is_true": 0
+    },
+    {
+        "question_id": 252,
+        "content": "定休",
+        "is_true": 0
+    },
+    {
+        "question_id": 252,
+        "content": "休暇",
+        "is_true": 1
+    },
+    {
+        "question_id": 252,
+        "content": "休養",
+        "is_true": 0
+    },
+    {
+        "question_id": 253,
+        "content": "利益",
+        "is_true": 1
+    },
+    {
+        "question_id": 253,
+        "content": "消算",
+        "is_true": 0
+    },
+    {
+        "question_id": 253,
+        "content": "予算",
+        "is_true": 0
+    },
+    {
+        "question_id": 253,
+        "content": "収入",
+        "is_true": 0
+    },
+    {
+        "question_id": 254,
+        "content": "しゅうし",
+        "is_true": 1
+    },
+    {
+        "question_id": 254,
+        "content": "しゅし",
+        "is_true": 0
+    },
+    {
+        "question_id": 254,
+        "content": "しょうし",
+        "is_true": 0
+    },
+    {
+        "question_id": 254,
+        "content": "しょし",
+        "is_true": 0
+    },
+    {
+        "question_id": 255,
+        "content": "のがれた",
+        "is_true": 1
+    },
+    {
+        "question_id": 255,
+        "content": "まぬがれた",
+        "is_true": 0
+    },
+    {
+        "question_id": 255,
+        "content": "はなれた",
+        "is_true": 0
+    },
+    {
+        "question_id": 255,
+        "content": "それた",
+        "is_true": 0
+    },
+    {
+        "question_id": 256,
+        "content": "つないで",
+        "is_true": 0
+    },
+    {
+        "question_id": 256,
+        "content": "わたって",
+        "is_true": 0
+    },
+    {
+        "question_id": 256,
+        "content": "またいで",
+        "is_true": 1
+    },
+    {
+        "question_id": 256,
+        "content": "かかって",
+        "is_true": 0
+    },
+    {
+        "question_id": 257,
+        "content": "りじゅうん",
+        "is_true": 0
+    },
+    {
+        "question_id": 257,
+        "content": "りそく",
+        "is_true": 0
+    },
+    {
+        "question_id": 257,
+        "content": "りえき",
+        "is_true": 1
+    },
+    {
+        "question_id": 257,
+        "content": "りし",
+        "is_true": 0
+    },
+    {
+        "question_id": 258,
+        "content": "さくがく",
+        "is_true": 0
+    },
+    {
+        "question_id": 258,
+        "content": "さっかく",
+        "is_true": 0
+    },
+    {
+        "question_id": 258,
+        "content": "さくご",
+        "is_true": 1
+    },
+    {
+        "question_id": 258,
+        "content": "さぐこ",
+        "is_true": 0
+    }
+]

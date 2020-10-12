@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = 'DataJapanese.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'DataJapanese (https://www.thegioididong.com)'
+USER_AGENT = 'DataJapanese (http://nguphaptiengnhat.net)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True

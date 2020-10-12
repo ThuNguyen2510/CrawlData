@@ -1,0 +1,48 @@
+[
+    {
+        "lesson_id": 3,
+        "content1": "あなたは　せんせいですか<br>例: いいえ、わたしは は　せんせいじゃ　ありません。<br><br><br> <br>Bạn là giáo viên phải không?<br>Ví dụ: Không, tôi không phải là giáo viên.",
+        "content2": "あなたは　サントスさんですか。<br><br><br> <br>例:　いいえ、サントスじゃ　ありません。<br><br><br> <br>Bạn là Santos phải không?<br>Ví dụ: Không, tôi không phải là Santos.",
+        "content3": "おなまえは？ <br>…例:　Dungです。<br><br><br> <br> Bạn tên là gì?<br> Là Dung.",
+        "content4": "なんさいですか。<br><br><br> <br> …例:　２８さいです。<br><br><br> <br> Bạn bao nhiêu tuổi?<br> 28 tuổi.",
+        "content5": "アメリカじんですか。<br><br><br> <br> …例:　はい、アメリカじんです。<br><br><br> <br> Bạn là người Mỹ phải không? <br>Vâng, tôi là người Mỹ.",
+        "content6": "エンジニアですか。<br><br><br> <br> …例:　いいえ、エンジニアじゃ　ありません。<br><br><br> <br> Bạn là kỹ sư phải không? <br>Không, tôi không phải kỹ sư.",
+        "audio": "https://res.cloudinary.com/driyvrhn2/video/upload/v1602240806/listening/1_-_9_-_Mondai_2_zoabhj.mp3",
+        "image": "https://res.cloudinary.com/driyvrhn2/image/upload/v1602260882/listening/1-8-Image_rwmnkj.png"
+    },
+    {
+        "lesson_id": 3,
+        "content1": "男： さとうさん、おはようございます。<br><br><br> <br> 女：　おはようございます。<br><br><br> <br> Chị Sato, Xin chào (buổi sáng) chị. <br>Xin chào (buổi sáng) anh.",
+        "content2": "女： みなさん、こちらは　パワーでんきの　シュミットさんです。<br><br><br> <br>Các bạn, đây là anh Schmidt công ty điện Power.<br> 男：　はじめまして、シュミットです。<br><br><br>どうぞよろしく。<br><br><br> <br> Rất vui được làm quen, tôi là Schmidt.<br> Rất mong sẽ nhận được sự giúp đỡ của các bạn.",
+        "content3": "女： おなまえは？<br> 男：　ワンです。<br><br><br> <br> 女：　アンさんですか。<br><br><br> <br> 男：　いいえ、ワンです。<br><br><br> <br> 女：　おいくつですか。<br><br><br> <br> 男：　29です。<br><br><br> <br> Tên bạn là gì? <br>Tớ là Wang. Bạn là An hả?<br> Không phải, tớ là Wang.<br> Bạn bao nhiêu tuổi? <br>Tớ là 29 tuổi.",
+        "audio": "https://res.cloudinary.com/driyvrhn2/video/upload/v1602240806/listening/1_-_9_-_Mondai_2_zoabhj.mp3",
+        "image": "https://res.cloudinary.com/driyvrhn2/image/upload/v1602260888/listening/1-9-Image_wmd4n7.png"
+    },
+    {
+        "lesson_id": 3,
+        "content1": "Đáp án là : X <br> 女： たろうくんは　なんさいですか。<br><br><br> <br>Bé Taro mấy tuổi rồi? <br>男： 8さいです。<br><br><br> <br>8 tuổi ạ.<br> ★ たろうくんは<br>　１０さいです。<br><br><br> <br>Bé Taro 10 tuổi.",
+        "content2": "Đáp án là : O <br>女： サントスさんは　せんせいですか。<br><br><br>Anh Santos là giáo viên phải không? 男： いいえ、せんせいじゃ　ありません。<br><br><br>かいしゃいんです。<br><br><br>Không, không phải là giáo viên. Là nhân viên công ty. ★ サントスさんは　かいしゃいんです。<br><br><br>Anh Santos là nhân viên công ty.",
+        "content3": "Đáp án là : O <br>男： あのかたは、どなた　ですか。<br><br>Vị kia là vị nào vậy? 女： カリナさんです。<br><br>Là chị Karina. 男： せんせいですか。<br><br>Là giáo viên phải không? 女： いいえ、ふじだいがくの　がくせいです。<br><br>Không phải, là học sinh trường đại học Fuji. ★ カリナさんは　ふじだいがくの せんせいです。<br><br>Chị Karina là giáo viên trường đại học Fuji.",
+        "content4": "Đáp án là : X <br>男： イーさんは　けんきゅうしゃですか。<br>Chị Lee là nhà nghiên cứu phải không?} 女： はい。<br>Vâng đúng vậy. 男： シュミットさんも　けんきゅうしゃですか。<br>Anh Schmidt cũng là nhà nghiên cứu phải không? 女： いいえ、シュミットさんは　エンジニアです。<br>Không, Anh Schmidt là Kỹ Sư. ★ シュミットさんは　けんきゅうしゃじゃ　ありません。<br>Anh Schmidt không phải là nhà nghiên cứu.",
+        "audio": "https://res.cloudinary.com/driyvrhn2/video/upload/v1602240806/listening/1_-_10_-_Mondai_3_wgcqjl.mp3",
+        "image": "https://res.cloudinary.com/driyvrhn2/image/upload/v1602260916/listening/1-10-Image_uzb2nt.png"
+    },
+    {
+        "lesson_id": 4,
+        "content1": "<table ><tbody><tr><td ><span >TT</span></td><td ><span >JP</span></td><td >VN</span></td></tr><tr><td >1)</td><td >問:</td><td><p>これは　てちょうですか。</p></td><td>Cái này là sổ tay phải không?</td></tr><tr><td>答:</td><td>…はい、そうです。 <br></td><td>Vâng, đúng vậy.</td></tr><tr><td >2)</td><td>問:</td><td>これは　コンピューターですか、テープレコーダーですか。</td><td>Cái này là máy vi tính hay là máy hát đĩa vậy?</td></tr><tr><td>答:</td><td>…コンピューターです。</td><td>Là máy vi tính.</td></tr><tr><td >3)</td><td>問:</td><td>これは　なんですか。</td><td>Cái này là gì vậy?</td></tr><tr><td>答:</td><td>…めいしです。</td><td>Là danh thiếp.</td></tr><tr><td >4)</td><td>問:</td><td>これは　なんの　ざっしですか。 <br></td><td>Cái này là tạp chí gì vậy?</td></tr><tr><td>答:</td><td>…じどうしゃの　ざっしです。</td><td>Là tạp chí xe hơi.</td></tr><tr><td >5)</td><td>問:</td><td>このかばんは　あなたのですか。 <br></td><td>Cái cặp này là của bạn phải không?</td></tr><tr><td>答:</td><td>…いいえ、わたしの　じゃ　ありません。</td><td>Không, không phải là của tôi.</td></tr></tbody></table>",
+        "audio": "https://res.cloudinary.com/driyvrhn2/video/upload/v1602240806/listening/2_-_8_-_Mondai_1_vbyoj1.mp3",
+        "image": "https://lophoctiengnhat.com/public/lesson/giaotrinh/Minna/bai2_mondai_1.png"
+    },
+    {
+        "lesson_id": 4,
+        "content1": "<table><tbody><tr><td>Đáp Án</td><td>Dịch</td></tr><tr><td>女：はい。どなたですか。 <br></td><td>Vâng. Vị nào đấy ạ?<br></td></tr><tr><td><p>男：</p><p>505の　ミラーです。</p><p>これから　おせわに　なります。</p><p>どうぞ　よろしく　おねがいします。</p></td><td><p>&nbsp;</p><p>Tôi là Miller của phòng 505.</p><p>Từ giờ rất mong chị giúp đỡ.</p><p>Xin nhờ chị nhiều.</p></td></tr><tr><td>女：たなかです。こちらこそ　よろしく。</td><td>Tôi là Tanaka. Tôi cũng mong được anh giúp đỡ.</td></tr><tr><td>Đáp án 2</td><td><br></td></tr></tbody></table></body>",
+        "audio": "https://res.cloudinary.com/driyvrhn2/video/upload/v1602240806/listening/2_-_9_-_Mondai_2_nwhrt7.mp3",
+        "image": "https://res.cloudinary.com/driyvrhn2/image/upload/v1602318995/listening/2-9-Image_wvl8eh.png"
+    },
+    {
+        "lesson_id": 4,
+        "content1": "<table <tbody><tr><td>Đáp Án</td><td>Dịch</td></tr><tr><td>男： あのう、これ、ほんの　きもちです。 <br></td><td>À, cái này là tấm lòng của tôi.<br></td></tr><tr><td>女：え、なんですか。 <br></td><td>Ồ, cái gì vật?<br></td></tr><tr><td>男：チョコレートです。</td><td>Là Sô cô la.</td></tr><tr><td>女： どうも　ありがとう　ございます。 <br></td><td>Xin cảm ơn anh.</td></tr><tr><td>Đáp án 1</td><td><br></td></tr></tbody></table>",
+        "audio": "https://res.cloudinary.com/driyvrhn2/video/upload/v1602240806/listening/2_-_10_-_Mondai_3_rw70mo.mp3",
+        "image": "https://lophoctiengnhat.com/public/lesson/giaotrinh/Minna/bai2_mondai_3a.png"
+    }
+]
